@@ -3,3 +3,5 @@ CREATE TABLE customer(
     firstname VARCHAR(20),
     lastname VARCHAR(20)
 );
+
+create sequence hibernate_sequence ;
